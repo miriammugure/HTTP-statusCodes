@@ -1,3 +1,18 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [INFORMATIONAL RESPONSES](#informational-responses)
+  - [Prefixed with 1xx](#prefixed-with-1xx)
+- [SUCCESSFUL RESPONSES](#successful-responses)
+  - [Prefixed with 2xx](#prefixed-with-2xx)
+- [CLIENT ERROR RESPONSES](#client-error-responses)
+  - [Prefixed with 4xx](#prefixed-with-4xx)
+- [SERVER ERROR RESPONSES](#server-error-responses)
+  - [Prefixed with 5xx](#prefixed-with-5xx)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # INFORMATIONAL RESPONSES  
  ## Prefixed with 1xx
 <ol>
